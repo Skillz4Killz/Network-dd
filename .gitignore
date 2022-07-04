@@ -1,0 +1,6 @@
+temp/
+oasis.toml
+packge-lock.json
+node_modules/
+dist/
+.env
